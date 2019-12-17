@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+        <id>ElectrumXClient</id>
+        <version>1.0.0</version>
+        <authors>Sander Gerz, Julian Haupt</authors>
+        <owners>hauptmedia</owners>
+        <projectUrl>https://github.com/hashland/ElectrumXClient</projectUrl>
+        <license type="expression">MIT</license>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>ElectrumXClient is a cross-platform, .NET portable library that can query ElectrumX servers in C#.</description>
+        <tags>electrumx</tags>
+        <dependencies>
+            <dependency id="Newtonsoft.Json" version="12.0.2" />
+        </dependencies>
+    </metadata>
+</package>
